@@ -1,3 +1,7 @@
+<!-- WAP to display all the factors of a integer number in  ascending 
+array format but the array should not contain 1 and the number itself but if the prime number comes 
+it should return a stirng syaing given number is prime number -->
+
 <?php
 function divisors(int $integer)
 {
